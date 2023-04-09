@@ -1,8 +1,6 @@
 
 # Maxwell Silva
 
-#### 💻 iOS Developer
-
 ## About me:
   <div> 
   <a href="https://instagram.com/maxwellss_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,12 +15,14 @@
     "name": "Maxwell Silva",
     "age": 22,
     "from": "Brazil",
+    "platform": "iOS",
     "education": "Systems Analysis"
   }
 }
 ```
 ![iOS_bagde](https://img.shields.io/badge/iOS-512D7B?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift_bagde](https://img.shields.io/badge/Swift-ED8B00?&style=for-the-badge&logo=swift&logoColor=white)
+![UIKit_badge](https://img.shields.io/badge/UIKit-990F02?style=for-the-badge&logo=uikit&logoColor=white)
 ![SwiftUI_badge](https://img.shields.io/badge/SwiftUI-081D2F?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode_badge](https://img.shields.io/badge/Xcode-0095D5?style=for-the-badge&logo=xcode&logoColor=white)
   
