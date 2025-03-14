@@ -2,7 +2,7 @@
 
 ## ✍🏼 About me
 
-- 📚 Currently studying Software Engineering at UNINTER.<br/>
+- 📚 Currently studying Software Engineering at Martha Falcão Wyden.<br/>
 - 🎓 Electronics Technician.<br/>
 - 💻 iOS Developer with a passion for crafting elegant solutions.<br/>
 
