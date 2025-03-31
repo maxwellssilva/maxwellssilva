@@ -4,7 +4,7 @@
 
 - 📚 Currently studying Software Engineering at Martha Falcão Wyden.<br/>
 - 🎓 Electronics Technician.<br/>
-- 💻 Software Developer with a passion for iOS Development and crafting elegant solutions.<br/>
+- 💻 Software Developer with a passion for iOS Development, Backend and crafting elegant solutions.<br/>
 
 ## 🛠️ My skills
 
@@ -13,6 +13,7 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-333333?style=for-the-badge&logo=swift&logoColor=violet)
 ![Xcode](https://img.shields.io/badge/Xcode-333333?style=for-the-badge&logo=xcode)
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java)
 
   
 **GitHub Stats**
