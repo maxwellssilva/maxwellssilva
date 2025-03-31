@@ -18,8 +18,9 @@
   
 **GitHub Stats**
 
-<a href="https://github.com/maxwellssilva" title="Perfil do Maxwell">
-  <img height="170"
-       src="https://github-readme-stats-eight-theta.vercel.app/api?username=maxwellssilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"
-   />
-</a>
+<div align="leading">  
+  <a href="https://github.com/maxwellssilva" title="Perfil do Maxwell">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maxwellssilva&show_icons=true&theme=algolia&include_all_commits=true">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=algolia&layout=compact&username=maxwellssilva">
+  </a>
+</div>
