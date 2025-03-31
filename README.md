@@ -4,7 +4,7 @@
 
 - 📚 Currently studying Software Engineering at Martha Falcão Wyden.<br/>
 - 🎓 Electronics Technician.<br/>
-- 💻 Software Developer with a passion for iOS Development, Backend and crafting elegant solutions.<br/>
+- 💻 Software Developer with a passion for iOS Development, Backend and elegant solutions.<br/>
 
 ## 🛠️ My skills
 
