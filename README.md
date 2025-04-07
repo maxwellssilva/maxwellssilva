@@ -10,11 +10,11 @@
 
 ![Swift](https://img.shields.io/badge/Swift-333333?&style=for-the-badge&logo=swift)
 ![UIKit](https://img.shields.io/badge/UIKit-333333?style=for-the-badge&logo=uikit)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-333333?style=for-the-badge&logo=swift&logoColor=violet)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-333333?style=for-the-badge&logo=swift&logoColor=cyan)
 ![Xcode](https://img.shields.io/badge/Xcode-333333?style=for-the-badge&logo=xcode)
 ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=Git)
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk)
 
   
 **GitHub Stats**
